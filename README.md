@@ -1,4 +1,4 @@
-- 👋 'Sup, I’m @kzfka.
+- 👋 Hello, I’m @kzfka!
 - 👀 I'm into programming.
 - 🌱 Right now I am not really learning anything.
 
